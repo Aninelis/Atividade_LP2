@@ -1,1 +1,3 @@
-# Atividade_LP2
+# Biblioteca Pandas
+
+Pandas é uma biblioteca Python para análise de dados. Seu nome é derivado do termo “dados de painel” um termo utilizado para se referir a conjuntos de dados estruturados. É construída com base em duas bibliotecas do Python: matplotlib para visualização de dados e NumPy para operações matemáticas. A biblioteca Pandas é conhecida por sua alta produtividade e alto desempenho. Ela é bastante popular porque torna a importação e a análise de dados muito mais fácil. A biblioteca pode ser instalada utilizando o comando pip, que é o gerenciador de pacotes do Python, no terminal de comando do ambiente de programação desejado, por meio da execução: pip install pandas ou apenas digitando: import pandas as pd.
